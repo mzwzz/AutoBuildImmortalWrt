@@ -36,6 +36,9 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-passwall"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn."
+PACKAGES="$PACKAGES luci-app-ddns-go"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
